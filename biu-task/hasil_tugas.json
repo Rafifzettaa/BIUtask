@@ -1,0 +1,43 @@
+[
+    {
+        "username": "2022310057",
+        "userProfile": "RAFIF ZETTA RAJENDRA PRAGIWOKO (Mahasiswa)",
+        "results": [
+            {
+                "MataKuliah": "Pertemuan ke 14, Matakuliah JARINGAN KOMPUTER TERAPAN 1 semester 5 kelas TI22A  - Tatap Muka",
+                "Tugas Mulai": "Seminggu yang lalu, Selasa, 14-01-2025 08:00:00",
+                "Tugas Selesai": "Kemarin, Jumat, 24-01-2025 08:00:00"
+            },
+            {
+                "MataKuliah": "Pertemuan ke 14, Matakuliah MANAJEMEN PROYEK TEKNOLOGI INFORMASI semester 5 kelas TI22A  - Tatap Muka",
+                "Tugas Mulai": "Seminggu yang lalu, Jumat, 17-01-2025 10:00:00",
+                "Tugas Selesai": "Seminggu yang lalu, Jumat, 17-01-2025 17:00:00"
+            }
+        ],
+        "statusResults": [
+            {
+                "Detail Tugas": "Lihat / Download \"2022310057_RAFIF ZETTA RAJENDRA PRAGIWOKO_JARKOM p14.pdf\"",
+                "Status Tugas": "Sudah Dikumpulkan",
+                "User Info": "2022310057 / RAFIF ZETTA RAJENDRA PRAGIWOKO"
+            },
+            {
+                "Detail Tugas": "Lihat / Download \"2022310057_RAFIF ZETTA RAJENDRA PRAGIWOKO_USTEK PT ASA TEKNOLOGI MANDIRI.pdf\"",
+                "Status Tugas": "Sudah Dikumpulkan",
+                "User Info": "2022310057 / RAFIF ZETTA RAJENDRA PRAGIWOKO"
+            }
+        ],
+        "alerts": [
+            "Format tanggal tidak valid: ",
+            "Tugas Pertemuan ke 14, Matakuliah JARINGAN KOMPUTER TERAPAN 1 semester 5 kelas TI22A  - Tatap Muka terlewat 1 hari yang lalu.",
+            "Format tanggal tidak valid: ",
+            "Tugas Pertemuan ke 14, Matakuliah MANAJEMEN PROYEK TEKNOLOGI INFORMASI semester 5 kelas TI22A  - Tatap Muka terlewat 8 hari yang lalu."
+        ]
+    },
+    {
+        "username": "2024130105",
+        "userProfile": "DEA AMANDA SARI (Mahasiswa)",
+        "results": [],
+        "statusResults": [],
+        "alerts": []
+    }
+]
