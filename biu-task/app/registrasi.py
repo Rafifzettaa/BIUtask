@@ -5,7 +5,7 @@ from sqlalchemy.orm import sessionmaker
 app = Flask(__name__)
 
 # Konfigurasi Database
-DATABASE_URL = "postgresql://postgres.koepkwhgtyjeoqmzsmmy:Rafif123.@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres"
+DATABASE_URL = "URL"
 engine = create_engine(DATABASE_URL)
 metadata = MetaData()
 
