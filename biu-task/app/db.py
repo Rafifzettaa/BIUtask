@@ -4,9 +4,9 @@ from psycopg2 import OperationalError
 def create_connection():
     try:
         connection = psycopg2.connect(
-            user="postgres.koepkwhgtyjeoqmzsmmy",
-            password="Rafif123.",
-            host="aws-0-ap-southeast-1.pooler.supabase.com",
+            user="user",
+            password="password.",
+            host="url",
             port="6543",
             database="postgres"
         )
